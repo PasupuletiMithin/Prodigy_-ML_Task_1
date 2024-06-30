@@ -1,4 +1,5 @@
 # Prodigy_ML_Task_1📂
+Linkedin : https://www.linkedin.com/posts/mithin-pasupuleti-575961263_machinelearning-prodigyinfotech-internship-activity-7213143575994191873-qXJg?utm_source=share&utm_medium=member_desktop
 House Price Prediction Project
 This project demonstrates a basic example of using machine learning to predict house prices based on various features such as square footage, number of bedrooms, and number of bathrooms. The dataset is generated and saved as a CSV file, and a linear regression model is used to predict house prices. The project includes data loading, model training, prediction, evaluation, and visualization.
 
